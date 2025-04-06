@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metro de Barcelona</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center">Metro de Barcelona</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Línea</th>
+                    <th>Ruta</th>
+                    <th>Operador</th>
+                    <th>Frecuencia</th>
+                    <th>Ver Paradas</th>
+                </tr>
+            </thead>
+            <tbody id="tabla-body">
+                <!-- Se llenará dinámicamente con JS -->
+            </tbody>
+        </table>
+        
+        <div id="paradas" class="mt-4 d-none">
+            <h2>Paradas de la línea <span id="nombre-linea"></span></h2>
+            <ul id="lista-paradas"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

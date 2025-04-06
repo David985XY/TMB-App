@@ -1,0 +1,13 @@
+/* Estilo para el botón de "Ver Paradas" */
+.btn-rojo {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-rojo:hover {
+    background-color: darkred;
+}

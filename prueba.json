@@ -1,0 +1,287 @@
+[
+    {
+        "ID_LINIA": 4,
+        "CODI_LINIA": "L1",
+        "NOM_LINIA": "L1",
+        "DESC_LINIA": "Hospital de Bellvitge - Fondo",
+        "ORIGEN_LINIA": "Hospital de Bellvitge",
+        "DESTI_LINIA": "Fondo",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "No disponible",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "Hospital de Bellvitge",
+          "Collblanc",
+          "Badal",
+          "Fondo",
+          "Santa Eulàlia",          
+          "Sants Estació",
+          "Plaça de Sants",
+          "Rocafort",
+          "Universitat",
+          "Catalunya",
+          "Passeig de Gràcia",
+          "Diagonal",
+          "Verdaguer",
+          "Clot",
+          "Navas",
+          "La Sagrera",
+          "Fondo"
+        ]
+      },
+      {
+        "ID_LINIA": 2,
+        "CODI_LINIA": "L2",
+        "NOM_LINIA": "L2",
+        "DESC_LINIA": "Paral·lel - Badalona",
+        "ORIGEN_LINIA": "Paral·lel",
+        "DESTI_LINIA": "Badalona",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "No disponible",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "Paral·lel",
+          "Liceu",
+          "Drassanes",
+          "Sant Antoni",
+          "Poble Sec",
+          "Vallcarca",
+          "Horta"
+        ]
+      }
+      ,
+
+      {
+        "ID_LINIA": 2,
+        "CODI_LINIA": "L3",
+        "NOM_LINIA": "L3",
+        "DESC_LINIA": "Zona Universitària - Trinitat Nova",
+        "ORIGEN_LINIA": "Zona Universitària",
+        "DESTI_LINIA": "Trinitat Nova",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "No disponible",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "Zona Universitària",
+          "Palau Reial",
+          "Les Corts",
+          "Maria Cristina",
+          "Diagonal",
+          "Passeig de Gràcia",
+          "Catalunya",
+          "Liceu",
+          "Drassanes",
+          "Sant Antoni",
+          "Poble Sec",
+          "Badal",
+          "Sants Estació",
+          "Plaça de Sants",
+          "Rocafort",
+          "Universitat",
+          "Verdaguer",
+          "Clot",
+          "Navas",
+          "La Sagrera",
+          "Trinitat Nova"
+        ]
+      }
+      
+    
+    ,
+    
+    {
+        "ID_LINIA": 5,
+        "CODI_LINIA": "L4",
+        "NOM_LINIA": "L4",
+        "DESC_LINIA": "La Pau - Trinitat Nova",
+        "ORIGEN_LINIA": "La Pau",
+        "DESTI_LINIA": "Trinitat Nova",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "No disponible",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "La Pau",
+          "Selva de Mar",
+          "Besòs Mar",
+          "Sant Martí",
+          "Poblenou",
+          "Llacuna",
+          "Verneda",
+          "La Sagrera",
+          "Trinitat Nova"
+        ]
+      }
+      
+    ,
+    
+    {
+        "ID_LINIA": 3,
+        "CODI_LINIA": "L5",
+        "NOM_LINIA": "L5",
+        "DESC_LINIA": "Cornellà Centre - Vall d'Hebron",
+        "ORIGEN_LINIA": "Cornellà Centre",
+        "DESTI_LINIA": "Vall d'Hebron",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "No disponible",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "Cornellà Centre",
+          "Collblanc",
+          "Badal",
+          "Hospital de Bellvitge",
+          "Bellvitge",
+          "Pubilla Cases",
+          "Vall d'Hebron"
+        ]
+      }
+      
+    ,
+    
+    {
+        "ID_LINIA": 10,
+        "CODI_LINIA": "L9N",
+        "NOM_LINIA": "L9N",
+        "DESC_LINIA": "La Sagrera - Can Zam",
+        "ORIGEN_LINIA": "La Sagrera",
+        "DESTI_LINIA": "Can Zam",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "No disponible",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "La Sagrera",
+          "Sant Andreu",
+          "Canyelles",
+          "Virrei Amat",
+          "Can Zam"
+        ]
+      }
+      
+      
+    ,
+    
+    {
+        "ID_LINIA": 12,
+        "CODI_LINIA": "L9S",
+        "NOM_LINIA": "L9S",
+        "DESC_LINIA": "Aeroport T1 - Zona Universitària",
+        "ORIGEN_LINIA": "Aeroport T1",
+        "DESTI_LINIA": "Zona Universitària",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "05:00 - 00:00",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "Aeroport T1",
+          "Aeroport T2",
+          "Collblanc",
+          "Zona Universitària"
+        ]
+      }
+      
+    ,
+    {
+        "ID_LINIA": 11,
+        "CODI_LINIA": "L10N",
+        "NOM_LINIA": "L10N",
+        "DESC_LINIA": "La Sagrera - Gorg",
+        "ORIGEN_LINIA": "La Sagrera",
+        "DESTI_LINIA": "Gorg",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "05:00 - 00:00",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "La Sagrera",
+          "Sant Andreu",
+          "Canyelles",
+          "Virrei Amat",
+          "Gorg"
+        ]
+      }
+      
+    ,
+    
+    {
+        "ID_LINIA": 13,
+        "CODI_LINIA": "L10S",
+        "NOM_LINIA": "L10S",
+        "DESC_LINIA": "ZAL | Riu Vell - Collblanc",
+        "ORIGEN_LINIA": "ZAL | Riu Vell",
+        "DESTI_LINIA": "Collblanc",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "05:00 - 00:00",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "ZAL | Riu Vell",
+          "La Sagrera",
+          "Sant Andreu",
+          "Canyelles",
+          "Virrei Amat",
+          "Collblanc"
+        ]
+      }
+      
+    ,
+    
+    {
+        "ID_LINIA": 7,
+        "CODI_LINIA": "L11",
+        "NOM_LINIA": "L11",
+        "DESC_LINIA": "Trinitat Nova - Can Cuiàs",
+        "ORIGEN_LINIA": "Trinitat Nova",
+        "DESTI_LINIA": "Can Cuiàs",
+        "NOM_OPERADOR": "Metro",
+        "HORARIO": "05:00 - 00:00",
+        "FRECUENCIA_MINUTOS": {
+          "hora_pico": 5,
+          "hora_valle": 10,
+          "nocturno": 15
+        },
+        "PARADAS": [
+          "Trinitat Nova",
+          "Valldaura",
+          "Canyelles",
+          "Virrei Amat",
+          "La Sagrera",
+          "Montbau",
+          "Can Cuiàs"
+        ]
+      }
+      
+    
+    
+  ]
